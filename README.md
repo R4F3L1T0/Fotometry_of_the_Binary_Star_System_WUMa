@@ -1,5 +1,5 @@
 # Fotometry of the Binary Star System WUMa
-### Using the "de Ritis" Telescope, ,equipped with a CCD camera (University of Naples, "Federico II") we estimate the period of *W Ursae Majoris*, a very important celestial object in Astrophysics.
+### Using the "de Ritis" Telescope, equipped with a CCD camera (University of Naples, "Federico II"), we estimate the period of *W Ursae Majoris*, a very important celestial object in Astrophysics.
 
 I worked in a group of three people, the whole project was designed by ourselves. We learnt how to use the telescope, chase a significant, interesting and observable celestial object, and designed the data analysis.  
 The ultimate scope was to measure the period of the tight, circular orbit of the pair of stars.     
